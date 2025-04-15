@@ -64,7 +64,7 @@ education:
   - area: Data Science
     institution: Yandex School of Data Analysis
     date_start: 01-09-2021
-    date_end: 'until now'
+    date_end: 20-05-2025
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
