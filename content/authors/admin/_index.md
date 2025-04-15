@@ -38,42 +38,47 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/bogdan-chuzhinov/
   - icon: academicons/google-scholar
-    url: https://independent.academia.edu/BgCh
-  - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0000-7262-1349
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=dShb6N0AAAAJ
+  - icon: brands/youtube
+    url: https://www.youtube.com/@Bg.Ch.youTube
+  - icon: brands/telegram
+    url: https://t.me/Bg_Ch_and_other_sweet_buns
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Dynamical Systems in Biology
+  - Computational Biology
+  - Knot Theory
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Mathematics
+    institution: Novosibirsk State University
+    date_start: 01-09-2021
+    date_end: 08-07-2023
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 5.0/5.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Data Science
+    institution: Yandex School of Data Analysis
+    date_start: 01-09-2021
+    date_end: 'until now'
     summary: |
-      GPA: 3.4/4.0
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    button:
+      text: 'Read about the programm'
+      url: 'https://dataschool.yandex.com/'
+  - area: BSc Mathematics
+    institution: Novosibirsk State University
+    date_start: 01-09-2018
+    date_end: 10-07-2021
+    summary: |
+      GPA: 4.95/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
