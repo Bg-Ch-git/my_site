@@ -25,7 +25,7 @@ role: Master's Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Vienna
-    url: https://www.univie.ac.at/
+    url: 'https://www.univie.ac.at/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,15 +34,15 @@ profiles:
     url: 'mailto:bg.ch.mail@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/Bg-Ch-git
+    url: 'https://github.com/Bg-Ch-git'
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/bogdan-chuzhinov/
+    url: 'https://www.linkedin.com/in/bogdan-chuzhinov/'
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=dShb6N0AAAAJ
+    url: 'https://scholar.google.com/citations?view_op=list_works&hl=en&user=dShb6N0AAAAJ'
   - icon: brands/youtube
-    url: https://www.youtube.com/@Bg.Ch.youTube
+    url: 'https://www.youtube.com/@Bg.Ch.youTube'
   - icon: brands/telegram
-    url: https://t.me/Bg_Ch_and_other_sweet_buns
+    url: 'https://t.me/Bg_Ch_and_other_sweet_buns'
 
 interests:
   - Dynamical Systems in Biology
