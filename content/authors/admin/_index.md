@@ -52,8 +52,8 @@ interests:
 education:
   - area: MSc Mathematics
     institution: Novosibirsk State University
-    date_start: 01-09-2021
-    date_end: 08-07-2023
+    date_start: 2021-09-01
+    date_end: 2023-07-08
     summary: |
       GPA: 5.0/5.0
 
@@ -63,8 +63,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Data Science
     institution: Yandex School of Data Analysis
-    date_start: 01-09-2021
-    date_end: 20-05-2025
+    date_start: 2021-09-01
+    date_end: ''
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -75,8 +75,8 @@ education:
       url: 'https://dataschool.yandex.com/'
   - area: BSc Mathematics
     institution: Novosibirsk State University
-    date_start: 01-09-2018
-    date_end: 10-07-2021
+    date_start: 2018-09-01
+    date_end: 2021-07-10
     summary: |
       GPA: 4.95/5.0
       
