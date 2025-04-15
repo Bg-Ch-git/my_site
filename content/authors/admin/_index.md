@@ -50,7 +50,7 @@ interests:
   - Knot Theory
 
 education:
-  - area: MSc Mathematics
+  - area: MSc in Mathematics
     institution: Novosibirsk State University
     date_start: 2021-09-01
     date_end: 2023-07-08
@@ -61,7 +61,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Data Science
+  - area: Data Scientist
     institution: Yandex School of Data Analysis
     date_start: 2021-09-01
     date_end: ''
@@ -73,7 +73,7 @@ education:
     button:
       text: 'Read about the programm'
       url: 'https://dataschool.yandex.com/'
-  - area: BSc Mathematics
+  - area: BSc in Mathematics
     institution: Novosibirsk State University
     date_start: 2018-09-01
     date_end: 2021-07-10
