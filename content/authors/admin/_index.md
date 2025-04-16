@@ -81,9 +81,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: [Lecturer at the Department of Mathematics of the Special Educational Scientific Center of Novosibirsk State University](URL "https://sesc.nsu.ru/")
-    company_name: GenCoin
-    company_url: ''
+  - position: Lecturer at the Department of Mathematics
+    company_name: Special Educational Scientific Center of Novosibirsk State University
+    company_url: 'https://sesc.nsu.ru/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
