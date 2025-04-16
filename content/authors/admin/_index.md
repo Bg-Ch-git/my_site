@@ -11,7 +11,7 @@ last_name: Chuzhinov
 
 # Status emoji
 status:
-  icon: 🎹
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,13 +30,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:bg.ch.mail@gmail.com'
-    label: E-mail Me
   - icon: brands/github
     url: https://github.com/Bg-Ch-git
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/bogdan-chuzhinov/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=dShb6N0AAAAJ
   - icon: brands/youtube
@@ -86,7 +81,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: [Lecturer at the Department of Mathematics of the Special Educational Scientific Center of Novosibirsk State University](URL "https://sesc.nsu.ru/")
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -97,12 +92,12 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Laborant
+    company_name: Laboratory of Topology and Dynamics
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-07-01
+    date_end: 2021-09-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
