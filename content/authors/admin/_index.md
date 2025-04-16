@@ -185,4 +185,6 @@ awards:
 
 ## About Me
 
-I was born and graduated from school in Kazakhstan, studied at a university in Russia and completed my master's degree in Novosibirsk. At university I specialized in geometry and topology, or more precisely, knot theory. I studied representations of virtual braid groups. In parallel with my master's degree I entered the "Data Science" program at the Yandex School of Data Analysis. Now I live and study in Vienna. As a hobby, I play the piano and love old music. Recently, I have been actively working on eliminating the gaps in my English and German skills.
+I was born and graduated from school in Kazakhstan, studied at a university in Russia and completed my master's degree in Novosibirsk. At university I specialized in geometry and topology, or more precisely, knot theory. I studied representations of virtual braid groups. In parallel with my master's degree I entered the "Data Science" program at the Yandex School of Data Analysis.
+
+Now I live and study in Vienna. As a hobby, I play the piano and love old music. Recently, I have been actively working on eliminating the gaps in my English and German skills.
