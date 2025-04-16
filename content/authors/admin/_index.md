@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MSc Bogdan Chuzhinov
+title: Bogdan Chuzhinov
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -72,6 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
       text: 'Read about the programm'
+      icon: hero/magnifying-glass
       url: 'https://dataschool.yandex.com/'
   - area: BSc in Mathematics
     institution: Novosibirsk State University
@@ -143,12 +144,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Russian
     percent: 100
-  - name: Chinese
+  - name: German
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was born and graduated from school in Kazakhstan, studied at a university in Russia and completed my master's degree in Novosibirsk. At university I specialized in geometry and topology, or more precisely, knot theory. I studied representations of virtual braid groups. In parallel with my master's degree I entered the "Data Science" program at the Yandex School of Data Analysis. Now I live and study in Vienna. As a hobby, I play the piano and love old music. Recently, I have been actively working on eliminating the gaps in my English and German skills.
