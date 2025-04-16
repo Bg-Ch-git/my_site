@@ -82,7 +82,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Lecturer at the Department of Mathematics
-    company_name: Special Educational Scientific Center of Novosibirsk State University
+    company_name: [Special Educational Scientific Center of Novosibirsk State University](https://sesc.nsu.ru/)
     company_url: 'https://sesc.nsu.ru/'
     company_logo: ''
     date_start: 2021-01-01
