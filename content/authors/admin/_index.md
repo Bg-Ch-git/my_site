@@ -30,8 +30,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/github
-    url: https://github.com/Bg-Ch-git
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=dShb6N0AAAAJ
   - icon: brands/youtube
